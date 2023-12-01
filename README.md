@@ -9,7 +9,7 @@ The uncertainty of the UI and Attributes to be used along with the limitations o
 </p>
 
 <p align="center>
-  <img width="300" height="460" src = "![Artboard 1_1-80](https://github.com/TeddyAristan/tokoku-app/assets/53167369/e1c35700-bb22-4949-abdc-6a5836a92178)"/>
+  <img width="300" height="460" src = "https://github.com/TeddyAristan/tokoku-app/assets/53167369/e1c35700-bb22-4949-abdc-6a5836a92178"/>
   <img width="300" height="460" src = "![Artboard 1_2-80](https://github.com/TeddyAristan/tokoku-app/assets/53167369/b90c1eb5-2a83-44ef-a629-5689ea863ffd)"/>
   <img width="300" height="460" src = "![Artboard 1_3-80](https://github.com/TeddyAristan/tokoku-app/assets/53167369/d9d89d4c-6e6f-4f95-8813-742dabe2e79b)"/>
 </p>
