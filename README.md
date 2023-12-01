@@ -8,23 +8,22 @@ The features in this TokoKu application are CRUD list of goods (name, type, quan
 The uncertainty of the UI and Attributes to be used along with the limitations of my current capabilities in mobile development are the reasons the developer use the Agile Framework as a development method. Here is a little sample of the UI that the developer designed myself at first, which can be seen below.  
 </p>
 
-<p align="center>
+<p align="center">
   <img width="300" height="460" src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/e1c35700-bb22-4949-abdc-6a5836a92178"/>
-  <img width="300" height="460" src = "![Artboard 1_2-80](https://github.com/TeddyAristan/tokoku-app/assets/53167369/b90c1eb5-2a83-44ef-a629-5689ea863ffd)"/>
-  <img width="300" height="460" src = "![Artboard 1_3-80](https://github.com/TeddyAristan/tokoku-app/assets/53167369/d9d89d4c-6e6f-4f95-8813-742dabe2e79b)"/>
+  <img width="300" height="460" src = "https://github.com/TeddyAristan/tokoku-app/assets/53167369/b90c1eb5-2a83-44ef-a629-5689ea863ffd"/>
+  <img width="300" height="460" src = "https://github.com/TeddyAristan/tokoku-app/assets/53167369/d9d89d4c-6e6f-4f95-8813-742dabe2e79b"/>
 </p>
 
-<p>
+
 The originally designed ui turned into the ui below when it was developed.
 
 <p>
-  <img src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/908a9077-baf6-4153-adde-10433355735c"/>
-  <img src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/b3199666-125a-4e6c-94b0-27b241db448a"/>
-  <img src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/cb695efa-58fd-4496-a3a3-3075b7895114"/>
+  <img  width="300" height="460" src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/908a9077-baf6-4153-adde-10433355735c"/>
+  <img  width="300" height="460" src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/b3199666-125a-4e6c-94b0-27b241db448a"/>
+  <img  width="300" height="460" src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/cb695efa-58fd-4496-a3a3-3075b7895114"/>
 </p>
 
 The development of this application is still at the first stage where CRUD requirements can be used. However, this application in terms of security has not been implemented so that if installed in apk, a warning notification will appear from the android system itself. The development of other features and application security features that are in accordance with the standards will be included in the new sprint stage because the application development phase I has been completed and on target with a duration of two weeks.
 
 Stay tune for the update or maybe we can collabe to optimize this application :), feel excited for the collaboration....
   
-</p>
