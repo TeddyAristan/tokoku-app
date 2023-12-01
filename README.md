@@ -1,4 +1,4 @@
-# tokoku-app
+# TokoKu-app
 
 <p>
 TokoKu is an android mobile application that built using kotlin language with MVVM (Model View ViewModel) Architecture and Agile Framework in Android Studio platform. The main purpose of TokoKu Application is to help mini grocery sellers that seldom forget the price of items and the transaction processes held manually.
