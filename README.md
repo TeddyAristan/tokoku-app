@@ -9,7 +9,7 @@ The uncertainty of the UI and Attributes to be used along with the limitations o
 </p>
 
 <p align="center>
-  <img width="300" height="460" src = "https://github.com/TeddyAristan/tokoku-app/assets/53167369/e1c35700-bb22-4949-abdc-6a5836a92178"/>
+  <img width="300" height="460" src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/e1c35700-bb22-4949-abdc-6a5836a92178"/>
   <img width="300" height="460" src = "![Artboard 1_2-80](https://github.com/TeddyAristan/tokoku-app/assets/53167369/b90c1eb5-2a83-44ef-a629-5689ea863ffd)"/>
   <img width="300" height="460" src = "![Artboard 1_3-80](https://github.com/TeddyAristan/tokoku-app/assets/53167369/d9d89d4c-6e6f-4f95-8813-742dabe2e79b)"/>
 </p>
@@ -17,7 +17,11 @@ The uncertainty of the UI and Attributes to be used along with the limitations o
 <p>
 The originally designed ui turned into the ui below when it was developed.
 
-![WhatsApp Image 2023-11-28 at 19 35 50 (1)](https://github.com/TeddyAristan/tokoku-app/assets/53167369/908a9077-baf6-4153-adde-10433355735c) ![WhatsApp Image 2023-11-28 at 19 35 50](https://github.com/TeddyAristan/tokoku-app/assets/53167369/b3199666-125a-4e6c-94b0-27b241db448a) ![WhatsApp Image 2023-11-28 at 19 35 51](https://github.com/TeddyAristan/tokoku-app/assets/53167369/cb695efa-58fd-4496-a3a3-3075b7895114)
+<p>
+  <img src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/908a9077-baf6-4153-adde-10433355735c"/>
+  <img src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/b3199666-125a-4e6c-94b0-27b241db448a"/>
+  <img src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/cb695efa-58fd-4496-a3a3-3075b7895114"/>
+</p>
 
 The development of this application is still at the first stage where CRUD requirements can be used. However, this application in terms of security has not been implemented so that if installed in apk, a warning notification will appear from the android system itself. The development of other features and application security features that are in accordance with the standards will be included in the new sprint stage because the application development phase I has been completed and on target with a duration of two weeks.
 
