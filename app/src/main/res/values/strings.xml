@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">"TokoKu"</string>
+    <string name="clear_data">"Clear Data"</string>
+    <string name="contoh_harga_batas_atas">"Contoh: 130.000"</string>
+    <string name="contoh_harga_batas_bawah">"Contoh: 125.000"</string>
+    <string name="contoh_jumlah_barang">"Contoh: 22"</string>
+    <string name="contoh_tipe_barang">"Contoh: Lusin/Dus/Bungkus"</string>
+    <string name="contoh_nama_barang">"Contoh: Kecap Bulan Asin Besar"</string>
+    <string name="contoh_nama_pelanggan">"Contoh: Kiki"</string>
+    <string name="contoh_payment_status">"Contoh: Belum Bayar"</string>
+    <string name="contoh_nominal_payment">"Contoh: 11.000.000"</string>
+    <string name="contoh_payment_date">"Contoh: 11 Sept 2023/11-11-2023"</string>
+    <string name="delete_data">"Delete Data"</string>
+    <string name="foto_barang">"Foto Barang"</string>
+    <string name="jumlah_barang">"Jumlah Barang"</string>
+    <string name="harga_batas_atas">"Harga Batas Atas"</string>
+    <string name="harga_batas_bawah">"Harga Batas Bawah"</string>
+    <string name="klik_button_dibawah">"Klik button dibawah"</string>
+    <string name="nama_barang">"Nama Barang"</string>
+    <string name="nama_pelanggan_kasbon">"Nama Pelanggan Kasbon"</string>
+    <string name="nominal_payment_pelanggan_kasbon">"Nominal Kasbon"</string>
+    <string name="payment_date_pelanggan_kasbon">"Tanggal Kasbon"</string>
+    <string name="status_pembayaran_pelanggan_kasbon">"Status Kasbon"</string>
+    <string name="simpan_data">"Simpan Data"</string>
+    <string name="tipe_barang">"Tipe Kemasan Barang"</string>
+    <string name="ubah_data">"Ubah Data"</string>
+</resources>
