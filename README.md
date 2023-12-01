@@ -15,9 +15,10 @@ The uncertainty of the UI and Attributes to be used along with the limitations o
 </p>
 
 
-The originally designed ui turned into the ui below when it was developed.
-
-<p>
+<p align="center">
+  <p>&nbsp;</p>
+  The originally designed ui turned into the ui below when it was developed.
+  <p>&nbsp;</p>
   <img  width="300" height="460" src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/908a9077-baf6-4153-adde-10433355735c"/>
   <img  width="300" height="460" src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/b3199666-125a-4e6c-94b0-27b241db448a"/>
   <img  width="300" height="460" src="https://github.com/TeddyAristan/tokoku-app/assets/53167369/cb695efa-58fd-4496-a3a3-3075b7895114"/>
